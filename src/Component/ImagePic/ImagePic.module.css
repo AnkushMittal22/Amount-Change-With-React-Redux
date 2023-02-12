@@ -1,0 +1,9 @@
+.change img{
+    width: 10rem;
+    border-radius: 50%;
+}
+ 
+
+.image_change h2{
+    color: rgba(255, 255, 255, 0.67);
+}

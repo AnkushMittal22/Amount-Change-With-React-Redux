@@ -1,0 +1,21 @@
+.action_button{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 2rem; */
+}
+
+.action_button button{
+    padding: 1rem;
+    color: rgb(230,116,144);
+    font-weight: bold;
+    font-size: large;
+    border-radius: 1rem;
+}
+
+.action_button footer{
+    margin: 0 25rem 0 25rem
+}
+
+.action_button .button_change{
+margin: 0 19rem 0 0;
+}

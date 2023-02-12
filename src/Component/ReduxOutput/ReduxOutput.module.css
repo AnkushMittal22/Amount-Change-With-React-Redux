@@ -1,0 +1,19 @@
+.reduxoutput{ 
+     width: 90%;
+    max-width: 20rem; 
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 0 0 0 24rem;
+    text-align: center;
+    background-color: rgb(231,231,232); 
+
+ }
+
+
+.reduxoutput{ 
+    position: relative; 
+    bottom: 3rem;
+    z-index: 1;   
+} 
+
+ 
